@@ -1,0 +1,15 @@
+"C:\Program Files\Java\jdk-17.0.5\bin\java.exe" "-javaagent:C:\Program Files\JetBrains\IntelliJ IDEA 2024.1.3\lib\idea_rt.jar=64909:C:\Program Files\JetBrains\IntelliJ IDEA 2024.1.3\bin" -Dfile.encoding=UTF-8 -classpath C:\Users\zackj\IdeaProjects\untitled6\out\production\untitled6 TestEmployee
+Employee Summary:
+First Name: Rex
+Last Name: Jones
+Employee ID: 12345
+Salary: $50000.0
+
+Employee Summary:
+First Name: Riley
+Last Name: Reynolds
+Employee ID: 54321
+Salary: $80000.0
+Department: IT
+
+Process finished with exit code 0
